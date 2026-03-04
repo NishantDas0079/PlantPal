@@ -3,7 +3,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.onrender.com) <!-- Replace with your live Render URL -->
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **PlantPal** is an intelligent web application that helps plant lovers diagnose diseases from leaf photos. Using a deep learning model trained on the PlantVillage dataset, it identifies 15 common diseases across pepper, potato, and tomato plants with **93% validation accuracy**. The app provides confidence scores, detailed care instructions, and seasonal tips to keep your plants healthy.
 
